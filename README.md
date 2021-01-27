@@ -1,9 +1,9 @@
 # card-for-m
-A Card from Aun Hui
+*A Card from Aun Hui*
 
 Artwork by Chee Zhen
 
-Source Code edited by Bryan Chan
+Website construction aided by Bryan Chan
 
 Greeting card animated modified from DHINTECH (https://www.youtube.com/watch?v=R6IJSNzivGY)
 
